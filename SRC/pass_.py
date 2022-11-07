@@ -1,1 +1,1 @@
-pass_ = 'Barcelona87..'
+pass_ = 'password'
